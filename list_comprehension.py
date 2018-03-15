@@ -33,3 +33,4 @@ def squaring(num):
 
 sl = list(map(squaring,nums))
 print(sl)
+print("done")
