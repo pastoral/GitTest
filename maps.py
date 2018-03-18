@@ -20,7 +20,6 @@ print(anargam)
 #using map ----- the best
 sp = list(map(jumble,words))
 print(sp)
-print("eat burger")
 
 #using comprehension
 anargam = [jumble(word) for word in words]
