@@ -24,3 +24,10 @@ print(sp)
 #using comprehension
 anargam = [jumble(word) for word in words]
 print(anargam)
+
+thirsty = 0
+hungry = 1
+if(thirsty):
+	print("eat fries")
+else:
+	print("drink soda")
