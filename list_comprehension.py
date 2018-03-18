@@ -22,6 +22,7 @@ print(squared)
 #comprehensive way
 squared = [num**2 for num in nums if num%2 == 0]
 print(squared)
+print("eat pizza")
 
 #map or functional way
 def squaring(num):
