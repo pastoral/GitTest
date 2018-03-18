@@ -25,9 +25,17 @@ print(sp)
 anargam = [jumble(word) for word in words]
 print(anargam)
 
+<<<<<<< HEAD
 thirsty = 0
 hungry = 1
 if(thirsty):
 	print("eat fries")
 else:
 	print("drink soda")
+=======
+hungry = 0
+if(!hungry):
+	print("drink water")
+else:
+	print("eat burger")
+>>>>>>> thirsty
